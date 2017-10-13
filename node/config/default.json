@@ -1,5 +1,5 @@
 {
-    "appSecret": "",
+    "appSecret": "process.env.MESSENGER_APP_SECRET",
     "pageAccessToken": "",
     "validationToken": "",
     "serverURL": ""
